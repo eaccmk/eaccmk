@@ -5,7 +5,7 @@
 
 ### Hi there 👋
 
-I am [eaccmk](https://github.com/eaccmk/) on GitHub :octocat: |  ![GitHub followers](https://img.shields.io/github/followers/eaccmk?style=social) and [eaccmk on twitter](https://img.shields.io/twitter/follow/millankaul?label=eaccmk&style=social)
+I am [eaccmk](https://github.com/eaccmk/) on GitHub :octocat: with ![GitHub followers](https://img.shields.io/github/followers/eaccmk?style=social) and eaccmk on ![twitter](https://img.shields.io/twitter/follow/millankaul?label=eaccmk&style=social)
 
 
 
