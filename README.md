@@ -5,17 +5,10 @@
 
 ### Hi there 👋
 
-I am [eaccmk](https://github.com/eaccmk/) on GitHub :octocat: with ![GitHub followers](https://img.shields.io/github/followers/eaccmk?style=social) and eaccmk on ![twitter](https://img.shields.io/twitter/follow/millankaul?label=eaccmk&style=social)
+I am [eaccmk](https://github.com/eaccmk/) on GitHub :octocat: with ![GitHub followers](https://img.shields.io/github/followers/eaccmk) and 
+![GitHub User's stars](https://img.shields.io/github/stars/eaccmk)
 
-
-
-Some of my work
-
-| Full Stats |Top Languages |
-|:--:|:--:|
-|![eaccmk's GitHub stats](https://github-readme-stats.vercel.app/api?username=eaccmk&theme=transparent&show_icons=true&include_all_commits=true)|[![Top Languages used in this repo](https://github-readme-stats.vercel.app/api/top-langs/?username=eaccmk&hide=html,css&langs_count=5&layout=compact)](https://github.com/eaccmk/github-readme-stats)|
-
-<!-- Ref https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
+Catch me on ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/millankaul)
 
 
 <picture>
@@ -24,6 +17,12 @@ Some of my work
   <img alt="github-snake" src="dist/github-contribution-grid-snake.svg" />
 </picture>
 
+
+| Full Stats |Top Languages |
+|:--:|:--:|
+|![eaccmk's GitHub Stats](https://readme-stats-github.pages.dev/api?username=eaccmk&theme=shadow)|![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=eaccmk&theme=dark)|
+
+<!-- Ref https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
 
 
 <!--
