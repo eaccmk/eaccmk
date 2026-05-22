@@ -1,14 +1,15 @@
-<!-- <div id="header" align="center">
-  <img src="/wiki/cute-astronaut.jpeg" width="300" height="300"/>
-</div> -->
+<!-- 
+<div id="header" align="center">
+  <img src="/wiki/cute-astronaut.jpeg" width="200" height="200"/>
+</div>  
+-->
 
+> Hello, welcome to my page [eaccmk](https://github.com/eaccmk/) on GitHub :octocat: 
 
-### Hi there 👋
-
-I am [eaccmk](https://github.com/eaccmk/) on GitHub :octocat: with ![GitHub followers](https://img.shields.io/github/followers/eaccmk) and 
+![GitHub followers](https://img.shields.io/github/followers/eaccmk) and 
 ![GitHub User's stars](https://img.shields.io/github/stars/eaccmk)
 
-Catch me on ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/millankaul)
+Wanna say hi on ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/millankaul)
 
 
 <picture>
