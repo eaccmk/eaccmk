@@ -6,11 +6,10 @@
 
 > Hello, welcome to my page [eaccmk](https://github.com/eaccmk/) on GitHub :octocat: 
 
-![GitHub followers](https://img.shields.io/github/followers/eaccmk) and 
-![GitHub User's stars](https://img.shields.io/github/stars/eaccmk)
+![GitHub followers](https://img.shields.io/github/followers/eaccmk)  
 
-Wanna say hi on ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/millankaul)
 
+Wanna say hi on ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/millankaul) or [Linkedin](https://www.linkedin.com/in/millankaul/)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dist/github-contribution-grid-snake-dark.svg" />
